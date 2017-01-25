@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecycleSpinner2</string>
+
+
+    <string-array name="spinner_data">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+</resources>
